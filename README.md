@@ -3,13 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaroslavaristov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="full" width="full" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaroslavaristov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="full" width="full" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaroslavaristov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaroslavaristov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" width="150" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhneGd0eGN1M3Jia3VsY2U4YmUzOG9zdWdlb2g2Mm5kNGZlYjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
+<img align="right" width="150" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhneGd0eGN1M3Jia3Jia3VsY2U4YmUzOG9zdWdlb2g2Mm5kNGZlYjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
 
 ###
 
