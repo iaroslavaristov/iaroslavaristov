@@ -36,8 +36,8 @@ designed for nanosecond-critical execution with fault-tolerant distributed state
 
 ### Research
 
-**Acceleration of Parallel SAT Solver for Cryptanalysis of Hash Functions**  
-Co-author · NSU Cryptography Summer School-Conference 2025  
+**[Acceleration of Parallel SAT Solver for Cryptanalysis of Hash Functions](https://nsucrypto-lab.ru/Summer_school_2025.pdf)**  
+Co-author · NSU Cryptography Summer School-Conference 2025 · pp. 132-142 
 
 *Up to 41% runtime reduction on multi-threaded configurations via low-level algorithmic optimization.*
 
