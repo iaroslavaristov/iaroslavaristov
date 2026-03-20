@@ -1,48 +1,64 @@
-<h2 align="left">Hi 👋! My name is Iaroslav and I'm a Backend Software Engineer</h2>
+# Iaroslav Aristov
 
-###
+**C++ Software Engineer · Ultra Low-Latency · HFT Infrastructure**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaroslavaristov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img width="50" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=iaroslavaristov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false](https://github-stats-extended.vercel.app/api/top-langs?username=iaroslavaristov&langs_count=5&theme=highcontrast)" height="150" alt="languages graph"  />
-  <img width="50" />
-</div>
+-----
 
-###
+I engineer ultra low-latency trading systems in C++20/23 on Linux.  
+Every design decision is driven by one constraint: latency.  
+No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
-<img align="right" width="150" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhneGd0eGN1M3Jia3VsY2U4YmUzOG9zdWdlb2g2Mm5kNGZlYjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
+Currently building an open-source **Ultra Low-Latency Trading System** in C++20 on Linux —  
+designed for nanosecond-critical execution with fault-tolerant distributed state.
 
-###
+-----
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50" alt="neovim logo" />
-  <img width="12" />
-</div>
+### Engineering Focus
 
-###
+- **Lock-free concurrency** — SPSC/MPMC queues, ABA prevention via tagged pointers, epoch-based and hazard pointer reclamation
+- **CPU-level optimization** — cache-line aware data layout, SIMD/AVX vectorization, branch prediction control, prefetching
+- **Kernel bypass** — DPDK, RDMA, onload/ef_vi for sub-microsecond network I/O
+- **Memory discipline** — pool allocators, slab allocation, zero dynamic allocation in hot path, NUMA-aware design
+- **Performance engineering** — perf, Valgrind, flamegraphs, hardware PMU counters, L1/L2/LLC miss analysis
 
-<div align="left">
-  <a href="https://t.me/iaroslavaristov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="mailto:iaroslavaristov@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+-----
 
-###
+### Stack
 
-<br clear="both">
+![C++](https://img.shields.io/badge/C++20%2F23-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/HoodrichKnight/HoodrichKnight/output/snake.svg" alt="Snake animation" />
+-----
 
-###
+### Research
+
+**Acceleration of Parallel SAT Solver for Cryptanalysis of Hash Functions**  
+Co-author · NSU Cryptography Summer School-Conference 2025  
+
+*Up to 41% runtime reduction on multi-threaded configurations via low-level algorithmic optimization.*
+
+-----
+
+### Awards
+
+**WorldSkills — 2nd place**, Neural Interface Design (2026)
+
+-----
+
+### Interests
+
+Kernel bypass networking · FPGA-accelerated execution · RDMA · DPDK · Infiniband · Busy-polling networking · CPU pinning & IRQ affinity · Huge pages & TLB optimization · PTP/IEEE 1588 time synchronization · Lock-free memory reclamation · CPU microarchitecture optimization
+
+-----
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iaroslav-aristov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iaroslavaristov)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaroslavaristovdev@gmail.com)
+
+-----
+
+English — fluent. Open to relocation globally.
