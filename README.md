@@ -8,7 +8,7 @@ I engineer ultra low-latency trading systems in C++20/23 on Linux.
 Every design decision is driven by one constraint: latency.  
 No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
-Currently building an open-source **Ultra Low-Latency Trading System** in C++20 on Linux —  
+Currently building an open-source **Ultra Low-Latency Exchange** in C++20 on Linux —  
 designed for nanosecond-critical execution with fault-tolerant distributed state.
 
 -----
