@@ -1,4 +1,4 @@
-# Iaroslav Aristov
+# Yaroslav Aristov
 
 **C++ Software Engineer · Ultra Low-Latency · HFT Infrastructure**
 
@@ -7,9 +7,6 @@
 I engineer ultra low-latency trading systems in C++20/23 on Linux.  
 Every design decision is driven by one constraint: latency.  
 No exceptions. No virtual dispatch. No heap allocation in the critical path.
-
-Currently building an open-source **Ultra Low-Latency Exchange** in C++20 on Linux —  
-designed for nanosecond-critical execution with fault-tolerant distributed state.
 
 -----
 
@@ -55,9 +52,9 @@ Kernel bypass networking · FPGA-accelerated execution · RDMA · DPDK · Infini
 
 -----
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iaroslav-aristov)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iaroslavaristov)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaroslavaristovdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslavaristov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaroslavaristov)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslavaristovwork@gmail.com)
 
 -----
 
