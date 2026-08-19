@@ -4,20 +4,20 @@
 
 -----
 
-I engineer ultra low-latency trading systems in C++20/23 on Linux.  
-Every design decision is driven by one constraint: latency.  
+I engineer ultra low-latency trading systems in C++20/23 on Linux.
+Every design decision is driven by one constraint: latency.
 No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
 -----
 
 ### Engineering Focus
 
-- **Lock-free concurrency** — SPSC/MPMC queues, ABA prevention via tagged pointers, epoch-based and hazard pointer reclamation
+- **Lock-free concurrency** — SPSC/MPMC ring buffers, cache-line padding against false sharing, wait-free progress guarantees
 - **CPU-level optimization** — cache-line aware data layout, SIMD/AVX vectorization, branch prediction control, prefetching
 - **Kernel bypass** — DPDK, RDMA, onload/ef_vi for sub-microsecond network I/O
 - **Memory discipline** — pool allocators, slab allocation, zero dynamic allocation in hot path, NUMA-aware design
 - **Performance engineering** — perf, Valgrind, flamegraphs, hardware PMU counters, L1/L2/LLC miss analysis
-
+  
 -----
 
 ### Stack
@@ -31,8 +31,12 @@ No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
 -----
 
-### Research
+### GitHub Activity
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
+-----
+
+### Research
 **[Acceleration of Parallel SAT Solver for Cryptanalysis of Hash Functions](https://nsucrypto-lab.ru/Summer_school_2025.pdf)**  
 Co-author · NSU Cryptography Summer School-Conference 2025 · pp. 132-142 
 
@@ -46,14 +50,8 @@ Co-author · NSU Cryptography Summer School-Conference 2025 · pp. 132-142
 
 -----
 
-### Interests
-
-Kernel bypass networking · FPGA-accelerated execution · RDMA · DPDK · Infiniband · Busy-polling networking · CPU pinning & IRQ affinity · Huge pages & TLB optimization · PTP/IEEE 1588 time synchronization · Lock-free memory reclamation · CPU microarchitecture optimization
-
------
-
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaroslavaristov)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslavaristov@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yaroslavaristov@protonmail.com)
 
 -----
 
