@@ -33,7 +33,7 @@ No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
 ### GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=&theme=highcontrast&card_width=900&background=FFFFFF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=highcontrast&card_width=900)](https://git.io/streak-stats)
 
 -----
 
