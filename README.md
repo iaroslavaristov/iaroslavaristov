@@ -32,7 +32,7 @@ No exceptions. No virtual dispatch. No heap allocation in the critical path.
 -----
 
 ### GitHub Activity
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=yaroslavaristov&theme=tokyonight&hide_border=true)
 
 -----
 
