@@ -39,7 +39,7 @@ No exceptions. No virtual dispatch. No heap allocation in the critical path.
 
 ### Research
 **[Acceleration of Parallel SAT Solver for Cryptanalysis of Hash Functions](https://nsucrypto-lab.ru/Summer_school_2025.pdf)**  
-Co-author · NSU Cryptography Summer School-Conference 2025 · pp. 132-142 
+Co-author · NSU Cryptography Summer School-Conference 2025 · pp. 132-142
 
 *Up to 41% runtime reduction on multi-threaded configurations via low-level algorithmic optimization.*
 
