@@ -22,7 +22,7 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=gruvbox-duo&hide_border=true&card_width=900&background=EB545400
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit streak stats
         run: |
