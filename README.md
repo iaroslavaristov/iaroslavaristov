@@ -1,4 +1,4 @@
-# Yaroslav Aristov
+# Iaroslav Aristov
 
 **C++ Software Engineer · Ultra Low-Latency · HFT Infrastructure**
 
